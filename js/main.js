@@ -1,6 +1,6 @@
 /**********************************文档区*****************************************/
 var text1=`/*
-* 大家好，我是AYJCSGM。
+* 大家好，我是Yushaokun。
 * 下面我来简单介绍一下我自己。
 * 但是文字介绍过于单调。
 * 今天，来点不一样的。
@@ -58,72 +58,81 @@ html{
 
 var text2=`# 自我介绍
 
-AYJCSGM
+Yushaokun
 ----
-23岁，Java软件工程师，三年Java EE 从业经验，目前在北京工作。
-有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控。
+基本信息：24岁，共青团员，本科院校中南大学，研究生院校北京航空航天大学，专业材料科学与工程
+性格：热情幽默，性格内向，同时又热爱编程
+个人宣言：BUG不改完不下班，编译不结束不睡觉 ໒(⊙ᴗ⊙)७✎▤
 <br/>
 
 
-技能
+研究生教育经历 
 ----
-* 后端开发
-* 聚合支付
-* 单点登录
-* 权限管理
-* 公众号/小程序开发
-* API接口开发
-* Linux
-* 开源爱好者
-* 博客系统
-
-技术及语言
+时间：2017.09-2020.01          
+主修课程：数理统计、无损检测、材料加工过程传输理论、工程材料数值模拟技术 等
+主要课程成绩：
+    无损检测：96
+    航空航天材料工程实践讲堂：95
+    数理统计：92
+    英语：88
+    工程材料数值模拟：86
+    。。。。。。
+校园经历：
+    以复试专业排名第7、数学满分的成绩考入北京航空航天大学，跟随周铁涛教授进行等离子微弧熔覆技术的研究；
+    研究生阶段自学过计算机编程（Java、Python），与同学建立学习互助小组，共同自学计算机本科基础课程；
+    在校期间帮助医学博士生师兄建立云端医学数据库，为师兄的研究工作提供帮助。
+    
+本科教育经历 
 ----
-  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis、Shiro、Freemarker
-  - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
-  - **数据库**: MySQL/MariaDB、SQLServer、Oracle、MongoDB、redis、memcached
-  - **web 服务器**: Nginx、Tomcat、Apache、Jetty
-  - **OS**: Linux、Windows
-  - **Others**: Git、Svn、Maven、XMind、Visio、IDEA
+时间：2013.09-2017.06
+主修课程：高等数学、线性代数、大学物理、工程制图、C++程序设计、物理化学、材料科学基础 等
+主要课程成绩：
+    高等数学A（一）：92
+    高等数学A（二）：98
+    线性代数A：91
+    工程力学：92
+    大学物理B（一）：86
+    大学物理B（二）：94
+    电工学A：91
+    。。。。。。
+校园经历：
+    大学生学术创新竞赛二等奖、数学建模竞赛三等奖、化学实验竞赛一等奖、中南大学材料学院奖学金；
+    CET-4 551分，CET-6 481分，计算机二级（C语言）91分。
 
-工作经历
+实习经历
 ----
-1. [北京江融信科技有限公司](http://www.jiangrongxin.com/)
+1. 紫光集团 中青信用管理有限公司 2019.05-2019.07 数据开发实习生
+2. 郑州市霓橙教育 2017.06-2017.08 高三化学辅导教师
+3. 陕西宝钛集团有限公司 2016.07-2016.08 生产实习（实习生）
 
-
-开源项目
+科研项目经历
 ----
-1. [基于SpringBoot + Semantic UI + JPA的个人博客](https://github.com/AYJCSGM/spring-boot-blog)
-2. [问卷调查系统](https://github.com/AYJCSGM/survey-system)
-3. [企业级博客](https://github.com/AYJCSGM/Enterprise-Blog)
-4. [客户管理系统](https://github.com/AYJCSGM/ClientManageSystem)
-5. [一个会动的简历](https://github.com/AYJCSGM/resume)
-6. [仓库管理系统](https://gitee.com/ayjcsgm/WM)
-7. [AYJCSGM的技术博客网站](https://github.com/AYJCSGM/AYJCSGM.github.io)
-
-链接
+1. 回归再时效对7020高强铝合金疲劳性能的影响
+    时间：2017.01-2017.05
+    工作内容：此项目研究RRA对7020铝合金疲劳性能的影响，通过调整时效工艺参数，改善7020铝合金的疲劳性能。
+2. 熔覆工艺对锡青铜熔覆层组织性能的影响
+    时间：2018.06-2019.12
+    工作内容：使用CAE软件，模拟液态金属的初始凝固温度与凝固疏松空洞大小的关系，然后通过指定合理的参数，改善金属铸件的性能。
+    
+技能&证书
 ----
-* [技术博客](https://ayjcsgm.github.io/)
-* [GitHub](https://github.com/AYJCSGM)
-* [码云](https://gitee.com/ayjcsgm)
-* [CSDN](https://blog.csdn.net/weixin_43664418)
-* [开发笔记](https://github.com/AYJCSGM/AYJCSGM.github.io)
-
-[归档文章](https://ayjcsgm.github.io/)
+    - **编程语言**：Java、Python、HTML
+    - **数据库**：MySQL、MongoDB、Postgresql
+    - **开发工具**：Eclipse、IDEA、Pycharm、navigate、datagrip
+    - **OS**：MacOS、Linux（Ubuntu、deepin）、Windows
+    - **Others**：Git、Tomcat、Xmind
+    - **书单**：《Python编程从入门到实践》、《Linux命令行》、《Java技术手册》、
+                《剑指offer》、《深入理解计算机系统》、《Java编程思想》、《算法（第4版）》、
+                《计算机网络自顶向下方法》、《MySQL数据库管理与开发》、《图解设计模式（日 结城浩）》
+                
+兴趣爱好
 ----
-1. [Java](https://ayjcsgm.github.io/tags/java/)
-2. [Linux](https://ayjcsgm.github.io/tags/Linux/)
-3. [Spring](https://ayjcsgm.github.io/tags/Spring)
-4. [MySQL](https://ayjcsgm.github.io/tags/SQL)
-5. [Hexo](https://ayjcsgm.github.io/tags/Hexo)
-6. [Docker](https://ayjcsgm.github.io/tags/Docker/)
+1. 喜爱慢跑，曾参加中南大学"百里毅行"活动，中南大学定向越野比赛；羽毛球（娱乐，非专业）；
+2. 热爱世界文学名著及古代历史。
+                阅读书籍包括当年明月《明朝那些事儿》系列、陈羡《南北朝》三部曲、
+                司徒琳（美）《南明史》、黄仁宇《万历十五年》、《福尔摩斯探案集》、东野圭吾推理系列、川端康成全集等；
+3. 热爱动植物学，对动植物有浓厚兴趣，B站关注过大量动植物学up主。
 
-联系我
-----
-* 联系QQ：**1141341095** 
-* 主要涉及技术：**Java后端开发**、**聚合支付**、**公众号开发**、**开源爱好者**、**Linux** 
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/AYJCSGM/resume)，打造你自己的简历！
 `;
 
 var text3=`
